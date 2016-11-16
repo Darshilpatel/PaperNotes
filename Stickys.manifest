@@ -5,3 +5,13 @@ images/remove_pushed.png
 images/corkboard.jpg
 images/board.jpg
 css/style.css
+
+FALLBACK:
+index.html
+
+CACHE:
+images/remove.png
+images/remove_pushed.png
+images/corkboard.jpg
+images/board.jpg
+css/style.css
